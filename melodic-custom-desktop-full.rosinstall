@@ -155,30 +155,6 @@
     uri: https://github.com/ros-gbp/filters-release/archive/release/melodic/filters/1.8.1-0.tar.gz
     version: filters-release-release-melodic-filters-1.8.1-0
 - tar:
-    local-name: gazebo_ros_pkgs/gazebo_dev
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_dev/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_dev-2.8.7-1
-- tar:
-    local-name: gazebo_ros_pkgs/gazebo_msgs
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_msgs/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_msgs-2.8.7-1
-- tar:
-    local-name: gazebo_ros_pkgs/gazebo_plugins
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_plugins/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_plugins-2.8.7-1
-- tar:
-    local-name: gazebo_ros_pkgs/gazebo_ros
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_ros/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_ros-2.8.7-1
-- tar:
-    local-name: gazebo_ros_pkgs/gazebo_ros_control
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_ros_control/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_ros_control-2.8.7-1
-- tar:
-    local-name: gazebo_ros_pkgs/gazebo_ros_pkgs
-    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release/archive/release/melodic/gazebo_ros_pkgs/2.8.7-1.tar.gz
-    version: gazebo_ros_pkgs-release-release-melodic-gazebo_ros_pkgs-2.8.7-1
-- tar:
     local-name: gencpp
     uri: https://github.com/ros-gbp/gencpp-release/archive/release/melodic/gencpp/0.6.5-1.tar.gz
     version: gencpp-release-release-melodic-gencpp-0.6.5-1
@@ -835,10 +811,6 @@
     uri: https://github.com/ros-gbp/rqt_runtime_monitor-release/archive/release/melodic/rqt_runtime_monitor/0.5.7-0.tar.gz
     version: rqt_runtime_monitor-release-release-melodic-rqt_runtime_monitor-0.5.7-0
 - tar:
-    local-name: rqt_rviz
-    uri: https://github.com/ros-gbp/rqt_rviz-release/archive/release/melodic/rqt_rviz/0.6.0-0.tar.gz
-    version: rqt_rviz-release-release-melodic-rqt_rviz-0.6.0-0
-- tar:
     local-name: rqt_service_caller
     uri: https://github.com/ros-gbp/rqt_service_caller-release/archive/release/melodic/rqt_service_caller/0.4.8-0.tar.gz
     version: rqt_service_caller-release-release-melodic-rqt_service_caller-0.4.8-0
@@ -902,42 +874,6 @@
     local-name: urdfdom_py
     uri: https://github.com/ros-gbp/urdfdom_py-release/archive/release/melodic/urdfdom_py/0.4.3-1.tar.gz
     version: urdfdom_py-release-release-melodic-urdfdom_py-0.4.3-1
-- tar:
-    local-name: vision_opencv/cv_bridge
-    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/melodic/cv_bridge/1.13.0-0.tar.gz
-    version: vision_opencv-release-release-melodic-cv_bridge-1.13.0-0
-- tar:
-    local-name: vision_opencv/image_geometry
-    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/melodic/image_geometry/1.13.0-0.tar.gz
-    version: vision_opencv-release-release-melodic-image_geometry-1.13.0-0
-- tar:
-    local-name: vision_opencv/vision_opencv
-    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/melodic/vision_opencv/1.13.0-0.tar.gz
-    version: vision_opencv-release-release-melodic-vision_opencv-1.13.0-0
-- tar:
-    local-name: visualization_tutorials/interactive_marker_tutorials
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/interactive_marker_tutorials/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-interactive_marker_tutorials-0.10.5-1
-- tar:
-    local-name: visualization_tutorials/librviz_tutorial
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/librviz_tutorial/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-librviz_tutorial-0.10.5-1
-- tar:
-    local-name: visualization_tutorials/rviz_plugin_tutorials
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/rviz_plugin_tutorials/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-rviz_plugin_tutorials-0.10.5-1
-- tar:
-    local-name: visualization_tutorials/rviz_python_tutorial
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/rviz_python_tutorial/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-rviz_python_tutorial-0.10.5-1
-- tar:
-    local-name: visualization_tutorials/visualization_marker_tutorials
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/visualization_marker_tutorials/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-visualization_marker_tutorials-0.10.5-1
-- tar:
-    local-name: visualization_tutorials/visualization_tutorials
-    uri: https://github.com/ros-gbp/visualization_tutorials-release/archive/release/melodic/visualization_tutorials/0.10.5-1.tar.gz
-    version: visualization_tutorials-release-release-melodic-visualization_tutorials-0.10.5-1
 - tar:
     local-name: webkit_dependency
     uri: https://github.com/ros-gbp/webkit_dependency-release/archive/release/melodic/webkit_dependency/1.1.0-0.tar.gz
