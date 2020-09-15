@@ -663,14 +663,6 @@
     uri: https://github.com/ros-gbp/rosbag_migration_rule-release/archive/release/melodic/rosbag_migration_rule/1.0.0-0.tar.gz
     version: rosbag_migration_rule-release-release-melodic-rosbag_migration_rule-1.0.0-0
 - tar:
-    local-name: rosconsole
-    uri: https://github.com/ros-gbp/rosconsole-release/archive/release/melodic/rosconsole/1.13.17-1.tar.gz
-    version: rosconsole-release-release-melodic-rosconsole-1.13.17-1
-- tar:
-    local-name: rosconsole_bridge
-    uri: https://github.com/ros-gbp/rosconsole_bridge-release/archive/release/melodic/rosconsole_bridge/0.5.3-0.tar.gz
-    version: rosconsole_bridge-release-release-melodic-rosconsole_bridge-0.5.3-0
-- tar:
     local-name: roscpp_core/cpp_common
     uri: https://github.com/ros-gbp/roscpp_core-release/archive/release/melodic/cpp_common/0.6.14-1.tar.gz
     version: roscpp_core-release-release-melodic-cpp_common-0.6.14-1
