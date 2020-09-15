@@ -727,10 +727,6 @@
     uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/melodic/rqt_common_plugins/0.4.8-0.tar.gz
     version: rqt_common_plugins-release-release-melodic-rqt_common_plugins-0.4.8-0
 - tar:
-    local-name: rqt_console
-    uri: https://github.com/ros-gbp/rqt_console-release/archive/release/melodic/rqt_console/0.4.9-1.tar.gz
-    version: rqt_console-release-release-melodic-rqt_console-0.4.9-1
-- tar:
     local-name: rqt_dep
     uri: https://github.com/ros-gbp/rqt_dep-release/archive/release/melodic/rqt_dep/0.4.9-0.tar.gz
     version: rqt_dep-release-release-melodic-rqt_dep-0.4.9-0
@@ -774,10 +770,6 @@
     local-name: rqt_publisher
     uri: https://github.com/ros-gbp/rqt_publisher-release/archive/release/melodic/rqt_publisher/0.4.8-0.tar.gz
     version: rqt_publisher-release-release-melodic-rqt_publisher-0.4.8-0
-- tar:
-    local-name: rqt_py_console
-    uri: https://github.com/ros-gbp/rqt_py_console-release/archive/release/melodic/rqt_py_console/0.4.8-0.tar.gz
-    version: rqt_py_console-release-release-melodic-rqt_py_console-0.4.8-0
 - tar:
     local-name: rqt_reconfigure
     uri: https://github.com/ros-gbp/rqt_reconfigure-release/archive/release/melodic/rqt_reconfigure/0.5.3-1.tar.gz
