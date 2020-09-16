@@ -27,10 +27,6 @@
     uri: https://github.com/ros-gbp/common_msgs-release/archive/release/melodic/common_msgs/1.12.7-0.tar.gz
     version: common_msgs-release-release-melodic-common_msgs-1.12.7-0
 - tar:
-    local-name: common_msgs/diagnostic_msgs
-    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/melodic/diagnostic_msgs/1.12.7-0.tar.gz
-    version: common_msgs-release-release-melodic-diagnostic_msgs-1.12.7-0
-- tar:
     local-name: common_msgs/geometry_msgs
     uri: https://github.com/ros-gbp/common_msgs-release/archive/release/melodic/geometry_msgs/1.12.7-0.tar.gz
     version: common_msgs-release-release-melodic-geometry_msgs-1.12.7-0
