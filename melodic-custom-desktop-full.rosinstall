@@ -727,10 +727,6 @@
     uri: https://github.com/ros-gbp/urdfdom_py-release/archive/release/melodic/urdfdom_py/0.4.3-1.tar.gz
     version: urdfdom_py-release-release-melodic-urdfdom_py-0.4.3-1
 - tar:
-    local-name: webkit_dependency
-    uri: https://github.com/ros-gbp/webkit_dependency-release/archive/release/melodic/webkit_dependency/1.1.0-0.tar.gz
-    version: webkit_dependency-release-release-melodic-webkit_dependency-1.1.0-0
-- tar:
     local-name: xacro
     uri: https://github.com/ros-gbp/xacro-release/archive/release/melodic/xacro/1.13.8-1.tar.gz
     version: xacro-release-release-melodic-xacro-1.13.8-1
