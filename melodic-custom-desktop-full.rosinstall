@@ -27,6 +27,10 @@
     uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/smclib/1.8.5-1.tar.gz
     version: bond_core-release-release-melodic-smclib-1.8.5-1
 - tar:
+    local-name: common_msgs/diagnostic_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/melodic/diagnostic_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-melodic-diagnostic_msgs-1.12.7-0
+- tar:
     local-name: catkin
     uri: https://github.com/ros-gbp/catkin-release/archive/release/melodic/catkin/0.7.28-1.tar.gz
     version: catkin-release-release-melodic-catkin-0.7.28-1
