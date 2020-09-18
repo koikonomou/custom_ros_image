@@ -7,6 +7,26 @@
     uri: https://github.com/ros-gbp/geometry_angles_utils-release/archive/release/melodic/angles/1.9.12-1.tar.gz
     version: geometry_angles_utils-release-release-melodic-angles-1.9.12-1
 - tar:
+    local-name: bond_core/bond
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/bond/1.8.5-1.tar.gz
+    version: bond_core-release-release-melodic-bond-1.8.5-1
+- tar:
+    local-name: bond_core/bond_core
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/bond_core/1.8.5-1.tar.gz
+    version: bond_core-release-release-melodic-bond_core-1.8.5-1
+- tar:
+    local-name: bond_core/bondcpp
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/bondcpp/1.8.5-1.tar.gz
+    version: bond_core-release-release-melodic-bondcpp-1.8.5-1
+- tar:
+    local-name: bond_core/bondpy
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/bondpy/1.8.5-1.tar.gz
+    version: bond_core-release-release-melodic-bondpy-1.8.5-1
+- tar:
+    local-name: bond_core/smclib
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/melodic/smclib/1.8.5-1.tar.gz
+    version: bond_core-release-release-melodic-smclib-1.8.5-1
+- tar:
     local-name: catkin
     uri: https://github.com/ros-gbp/catkin-release/archive/release/melodic/catkin/0.7.28-1.tar.gz
     version: catkin-release-release-melodic-catkin-0.7.28-1
