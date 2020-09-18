@@ -547,10 +547,6 @@
     uri: https://github.com/ros-gbp/ros_comm-release/archive/release/melodic/rostopic/1.14.9-1.tar.gz
     version: ros_comm-release-release-melodic-rostopic-1.14.9-1
 - tar:
-    local-name: ros_comm/roswtf
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/melodic/roswtf/1.14.9-1.tar.gz
-    version: ros_comm-release-release-melodic-roswtf-1.14.9-1
-- tar:
     local-name: ros_comm/topic_tools
     uri: https://github.com/ros-gbp/ros_comm-release/archive/release/melodic/topic_tools/1.14.9-1.tar.gz
     version: ros_comm-release-release-melodic-topic_tools-1.14.9-1
