@@ -255,6 +255,10 @@
     uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/melodic/cv_bridge/1.13.0-0.tar.gz
     version: vision_opencv-release-release-melodic-cv_bridge-1.13.0-0
 - tar:
+    local-name: vision_opencv/image_geometry
+    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/melodic/image_geometry/1.13.0-0.tar.gz
+    version: vision_opencv-release-release-melodic-image_geometry-1.13.0-0
+- tar:
     local-name: image_common/image_common
     uri: https://github.com/ros-gbp/image_common-release/archive/release/melodic/image_common/1.11.13-0.tar.gz
     version: image_common-release-release-melodic-image_common-1.11.13-0
